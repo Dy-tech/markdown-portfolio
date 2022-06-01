@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Dylan Clark
+## That's my name!
+## This is my Portfolio
